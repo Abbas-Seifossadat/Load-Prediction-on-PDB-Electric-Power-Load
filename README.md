@@ -4,7 +4,7 @@ This repository contains the implementation of a machine learning pipeline for f
 
 ---
 
-## ?? Project Overview  
+## Project Overview  
 
 Accurate load forecasting is crucial for efficient energy management and infrastructure planning. This project leverages:  
 - **Advanced Time Series Processing**: Creating sequence data from hourly demand to predict daily peak loads effectively.  
@@ -13,7 +13,7 @@ Accurate load forecasting is crucial for efficient energy management and infrast
 
 ---
 
-## ??? Methodology  
+## Methodology  
 
 1. **Data Preprocessing**  
    - Extracted peak daily demand from hourly energy usage data.  
@@ -32,7 +32,7 @@ Accurate load forecasting is crucial for efficient energy management and infrast
 
 ---
 
-## ?? Results  
+## Results  
 
 - Achieved excellent performance with an MAE of **0.00435** on validation data.  
 - Early stopping at **29 epochs** ensured efficient training.  
@@ -40,7 +40,7 @@ Accurate load forecasting is crucial for efficient energy management and infrast
 
 ---
 
-## ?? How to Run  
+## How to Run  
 
 1. Clone this repository:  
    ```bash  
@@ -60,7 +60,7 @@ Accurate load forecasting is crucial for efficient energy management and infrast
 
 ---
 
-## ??? Dependencies  
+## Dependencies  
 
 - Python 3.8+  
 - TensorFlow 2.x  
@@ -69,7 +69,7 @@ Accurate load forecasting is crucial for efficient energy management and infrast
 
 ---
 
-## ?? Key Features  
+## Key Features  
 
 - **Attention Mechanism**: Improves LSTM’s interpretability and prediction accuracy.  
 - **Optuna Hyperparameter Tuning**: Automates hyperparameter search for efficient model optimization.  
@@ -77,20 +77,20 @@ Accurate load forecasting is crucial for efficient energy management and infrast
 
 ---
 
-## ?? Insights  
+## Insights  
 
 This project highlights the potential of advanced machine learning techniques to address real-world challenges in energy management. The LSTM-Attention model delivers high accuracy and robustness, making it suitable for deployment in dynamic energy forecasting applications.  
 
 ---
 
-## ?? Future Work  
+## Future Work  
 
 - Incorporating external features such as weather forecasts or socio-economic data to improve model performance.  
 - Exploring other deep learning architectures like Transformer-based models for comparative analysis.  
 
 ---
 
-## ?? Contact  
+## Contact  
 
 For any queries or contributions, feel free to reach out:  
 - **Abbas Seifossadat**: [abbas.seifossadat@gmail.com](abbas.seifossadat@gmail.com)
